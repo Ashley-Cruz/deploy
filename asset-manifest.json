@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/Ashley-Cruz/nuevo.git/static/css/main.d044c4e7.chunk.css",
-    "main.js": "/Ashley-Cruz/nuevo.git/static/js/main.1b62c7ce.chunk.js",
-    "main.js.map": "/Ashley-Cruz/nuevo.git/static/js/main.1b62c7ce.chunk.js.map",
+    "main.js": "/Ashley-Cruz/nuevo.git/static/js/main.175251cd.chunk.js",
+    "main.js.map": "/Ashley-Cruz/nuevo.git/static/js/main.175251cd.chunk.js.map",
     "runtime-main.js": "/Ashley-Cruz/nuevo.git/static/js/runtime-main.f9159fc5.js",
     "runtime-main.js.map": "/Ashley-Cruz/nuevo.git/static/js/runtime-main.f9159fc5.js.map",
-    "static/js/2.e45ac385.chunk.js": "/Ashley-Cruz/nuevo.git/static/js/2.e45ac385.chunk.js",
-    "static/js/2.e45ac385.chunk.js.map": "/Ashley-Cruz/nuevo.git/static/js/2.e45ac385.chunk.js.map",
+    "static/js/2.50c0af99.chunk.js": "/Ashley-Cruz/nuevo.git/static/js/2.50c0af99.chunk.js",
+    "static/js/2.50c0af99.chunk.js.map": "/Ashley-Cruz/nuevo.git/static/js/2.50c0af99.chunk.js.map",
     "static/js/3.7d6c6c06.chunk.js": "/Ashley-Cruz/nuevo.git/static/js/3.7d6c6c06.chunk.js",
     "static/js/3.7d6c6c06.chunk.js.map": "/Ashley-Cruz/nuevo.git/static/js/3.7d6c6c06.chunk.js.map",
     "index.html": "/Ashley-Cruz/nuevo.git/index.html",
     "static/css/main.d044c4e7.chunk.css.map": "/Ashley-Cruz/nuevo.git/static/css/main.d044c4e7.chunk.css.map",
-    "static/js/2.e45ac385.chunk.js.LICENSE.txt": "/Ashley-Cruz/nuevo.git/static/js/2.e45ac385.chunk.js.LICENSE.txt",
+    "static/js/2.50c0af99.chunk.js.LICENSE.txt": "/Ashley-Cruz/nuevo.git/static/js/2.50c0af99.chunk.js.LICENSE.txt",
     "static/media/index.css": "/Ashley-Cruz/nuevo.git/static/media/mantenimiento.7bd09a14.jpg",
     "static/media/fondo.0393b6b4.jpg": "/Ashley-Cruz/nuevo.git/static/media/fondo.0393b6b4.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f9159fc5.js",
-    "static/js/2.e45ac385.chunk.js",
+    "static/js/2.50c0af99.chunk.js",
     "static/css/main.d044c4e7.chunk.css",
-    "static/js/main.1b62c7ce.chunk.js"
+    "static/js/main.175251cd.chunk.js"
   ]
 }
